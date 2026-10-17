@@ -22,12 +22,12 @@ a day right at a month boundary (Sankranti) compared to an official printed Panc
 ever spot a mismatch, it'll almost always be within a day of a month-start and self-corrects
 the next day.
 
-## Building and installing on your Pixel 10
+## Building and installing on your Phone
 
 1. Install [Android Studio](https://developer.android.com/studio) if you don't have it.
 2. Open this folder (`MalayalamCalendarWidget`) as a project in Android Studio — let it sync
    Gradle (it will auto-generate the Gradle wrapper jar on first sync).
-3. Connect your Pixel 10 via USB with USB debugging enabled (Settings → About phone → tap
+3. Connect your Phone via USB with USB debugging enabled (Settings → About phone → tap
    "Build number" 7 times → Developer options → USB debugging).
 4. Click **Run ▶** in Android Studio with your phone selected as the target. This installs the
    app (it has no launcher icon/screen — it only exists to host the widget).
